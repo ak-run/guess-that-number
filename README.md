@@ -1,6 +1,6 @@
 # Guess That Number!
 
-![Guess That Number](https://ak-run.github.io/guess-that-number/)
+[Guess That Number](https://ak-run.github.io/guess-that-number/)
 
 **A Number Guessing Game**
 
